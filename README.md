@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcozzari" alt="mcozzari" /></a> </p>
 
+- 🔭 I’m currently in seach of **a New Job**
+
+- 🌱 I’m currently learning **Machine Learning**
+
 - 👨‍💻 All of my projects are available at [https://github.com/MCozzari?tab=repositories](https://github.com/MCozzari?tab=repositories)
 
 - 📫 How to reach me **manucozzari@gmail.com**
