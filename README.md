@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in seach of **a New Job**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **more about Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MCozzari?tab=repositories](https://github.com/MCozzari?tab=repositories)
 
